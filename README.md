@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, sou Igor!
 
-<!--
-**Marchivx/Marchivx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! 👋
 
-Here are some ideas to get you started:
+Sou um desenvolvedor front-end apaixonado por criar soluções inovadoras e eficientes. Tenho 14 anos e estudo programação desde os 12. Aqui estão alguns dos meus projetos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Projeto 1](#)**: Descrição do projeto.
+- **[Projeto 2](#)**: Descrição do projeto.
+
+## Minhas habilidades:
+- HTML, CSS, JavaScript
+- React
+- Desenvolvimento Responsivo
+
+## Contate-me:
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [Twitter](https://twitter.com/seu-twitter)
