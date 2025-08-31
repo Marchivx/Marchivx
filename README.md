@@ -11,9 +11,6 @@ Olá! Eu sou Marchivx, um programador front-end
 ### 📚 Projetos
 
 - **[Portfólio](https://marchivx.netlify.app)**
-- **[Lista de Tarefas](https://marchivx.discloud.app)**: Projeto feito para organizar tarefas.
-
-![Marchivx's GitHub stats](https://github-readme-stats.vercel.app/api?username=marchivx&show_icons=true&theme=radical)
 
 ## Contate-me:
 
