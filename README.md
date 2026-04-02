@@ -10,10 +10,11 @@ Olá! Eu sou Marchivx, um programador front-end
 
 ### 📚 Projetos
 
-- **[Portfólio](https://marchivx.netlify.app)**
+- **[Fivem Server (Prudente Roleplay)](https://discord.gg/prudenterp)**
 
 ## Contate-me:
 
 - **Email**: igormarchivx@gmail.com
+- **Discord**: marchivx
 
 <!-- [<img align="center" alt="Marchi-Python" height="22.5"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send/?phone=11973111227&text&type=phone_number&app_absent=0) -->
