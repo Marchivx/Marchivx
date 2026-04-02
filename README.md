@@ -1,6 +1,10 @@
-## Oi! Como você está?👋
+## Igor Marchi, 16 anos — Desenvolvedor Full-Stack
 
-Olá! Eu sou Marchivx, um programador front-end
+Possuo experiência no ecossistema FiveM, atuando há cerca de um ano no desenvolvimento de scripts, correção de bugs e manutenção de sistemas para servidores e comunidades.
+
+Atualmente, exerço a função de Diretor e Desenvolvedor na Prudente Roleplay, sendo responsável pela arquitetura, desenvolvimento e estabilidade dos sistemas da cidade.
+
+Também atuo como Engenheiro Cloud na ByteNest, uma hosting voltada para bots de Discord, com foco em atendimento técnico, diagnóstico de problemas e gerenciamento de banco de dados.
 
 ### 🛠️ Habilidades
 
