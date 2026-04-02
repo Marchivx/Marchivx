@@ -14,7 +14,8 @@ Também atuo como Engenheiro Cloud na ByteNest, uma hosting voltada para bots de
 
 ### 📚 Projetos
 
-- **[Fivem Server (Prudente Roleplay)](https://discord.gg/prudenterp)**
+- **[Diretor & Desenvolvedor - Prudente Roleplay](https://discord.gg/prudenterp)**
+- **[Engenheiro Cloud - ByteNest](https://www.bytenest.com.br)**
 
 ## Contate-me:
 
